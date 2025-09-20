@@ -1,0 +1,10 @@
+[2025-09-20T06:53:59.367Z] POST /shorturls
+[2025-09-20T06:53:59.377Z] Response: 201
+[2025-09-20T06:54:59.872Z] GET /abcd1
+[2025-09-20T06:54:59.875Z] Shortcode abcd1 clicked. Redirecting to https://example.com/page
+[2025-09-20T06:54:59.879Z] Response: 302
+[2025-09-20T06:55:10.149Z] GET /abcd1
+[2025-09-20T06:55:10.151Z] Shortcode abcd1 clicked. Redirecting to https://example.com/page
+[2025-09-20T06:55:10.154Z] Response: 302
+[2025-09-20T06:55:47.701Z] GET /shorturls/abcd1
+[2025-09-20T06:55:47.704Z] Response: 200
